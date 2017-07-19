@@ -1,0 +1,71 @@
+#Resource: 
+resourceNameA
+eventNameA1
+12/19/2015,12:00
+12/19/2015,12:01
+eventOrgA1
+eventDescripA1
+eventNameA2
+12/19/2015,14:00
+12/19/2015,14:01
+eventOrgA2
+eventDescripA2
+eventNameA3
+12/19/2015,11:00
+12/19/2015,11:01
+eventOrgA3
+eventDescripA3
+eventNameA4
+12/19/2015,11:50
+12/19/2015,11:51
+eventOrgA4
+eventDescripA4
+eventNameA5
+12/19/2015,11:30
+12/19/2015,11:31
+eventOrgA5
+eventDescripA5
+eventNameA6
+12/19/2015,11:15
+12/19/2015,11:16
+eventOrgA6
+eventDescripA6
+eventNameA7
+12/19/2015,11:40
+12/19/2015,11:41
+eventOrgA7
+eventDescripA7
+eventNameA8
+12/19/2015,10:00
+12/19/2015,10:01
+eventOrgA8
+eventDescripA8
+eventNameA9
+12/19/2015,13:00
+12/19/2015,13:03
+eventOrgA9
+eventDescripA9
+#Resource: 
+resourceNameB
+eventNameB1
+12/26/2015,10:00
+12/28/2015,17:30
+eventOrgB1
+eventDescripB1
+Being Repaired
+12/20/2015,09:00
+12/24/2015,20:00
+Mickey's Shop
+n/a
+#Resource: 
+Adventure Centre
+Happy Hour
+12/20/2015,12:00
+12/20/2015,13:00
+Madtown Singers
+Combination of food and entertainment.  They need a full set-up.
+Poetry Hour
+12/19/2015,15:00
+12/19/2015,16:30
+Society of Literary Arts of UW-Madison
+Private event.  No loud noises during this event.
